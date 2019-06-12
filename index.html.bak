@@ -39,7 +39,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
   <!-- Image header -->
   <div class="w3-display-container w3-container">
-    <img src="C:\Users\COM-SSKRU\Desktop\job\22780275_1698024870262437_6662308105003554530_n.jpg" alt="Jeans" style="width:100%">
+    <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t31.0-8/22770865_1698024870262437_6662308105003554530_o.jpg?_nc_cat=106&amp;_nc_oc=AQltfvShkNimVIjyUrITPI11VEchS6GDrdAFD0qfpOlPNkKdqG0PQtGGYRaKSe3BKpc&amp;_nc_ht=scontent.fbkk14-1.fna&amp;oh=fd1e6b29d3b319aca42408ed0cdce4f6&amp;oe=5D9C1A67" alt="Jeans" style="width:100%">
     <div class="w3-display-topleft w3-text-white" style="padding:24px 48px">
       <h1 class="w3-jumbo w3-hide-small">New arrivals</h1>
       <h1 class="w3-hide-large w3-hide-medium">New arrivals</h1>
